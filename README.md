@@ -1,4 +1,4 @@
 # hello-world
 my hello world project
 
-My name is Michael.
+My name is Michael. I am a student at UL.
